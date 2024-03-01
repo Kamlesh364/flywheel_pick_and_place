@@ -105,10 +105,4 @@ You should see something similar to the video at the beginning of this tutorial.
 
 ## The Entire Code
 
-The entire code can be seen [here](pick_place) in the flywheen_pick_and_place GitHub project.
-
-.. |br| raw:: html
-
-   <br />
-
-.. tutorial-formatter:: ./src/pick_place_tutorial.cpp
+The entire code can be seen [here](./src/pick_place_tutorial.cpp) in the flywheen_pick_and_place GitHub project.

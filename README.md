@@ -8,6 +8,8 @@ It is easy to miss steps when going through the ROS installation tutorial. If yo
 Once you have ROS installed, make sure you have the most up to date packages:
 
 ```bash
+echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+source ~/.bashrc
 rosdep update
 sudo apt-get update
 ```

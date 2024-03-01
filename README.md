@@ -87,9 +87,7 @@ echo 'source ~/catkin_ws/devel/setup.bash' >> ~/.bashrc
 In MoveIt, grasping is done using the MoveGroup interface. In order to grasp an object we need to create `moveit_msgs::Grasp` msg which will allow defining the various poses and postures involved in a grasping operation.
 Watch this video to see the output of this tutorial:
 
-<div style="position: relative; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe width="700px" height="400px" src="https://www.youtube.com/embed/QBJPxx_63Bs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+[![YouTube Video Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Running The Demo
 

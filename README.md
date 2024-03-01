@@ -54,7 +54,7 @@ git clone https://github.com/kamlesh364/flywheel_pick_and_place.git
 The following will install from Debian any package dependencies not already in your workspace:
 
 ```bash
-cd ~/catkin_ws/src
+sudo apt install -y ros-melodic-franka-*
 rosdep install -y --from-paths . --ignore-src --rosdistro melodic
 ```
 

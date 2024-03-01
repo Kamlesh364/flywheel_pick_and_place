@@ -1,4 +1,3 @@
-```markdown
 # Getting Started
 
 ## Install ROS and Catkin
@@ -40,7 +39,7 @@ Within your [catkin](http://wiki.ros.org/catkin) workspace, download the `panda_
 ```bash
 cd ~/catkin_ws/src
 git clone https://github.com/kamlesh364/panda_moveit_config.git
-git clone https://github.com/kamlesh364/flywheen_flywheen_pick_and_place.git
+git clone https://github.com/kamlesh364/flywheel_pick_and_place.git
 ```
 
 **Note:** For now we will use a pre-generated `panda_moveit_config` package but later we will learn how to make our own in the [MoveIt Setup Assistant tutorial](../setup_assistant/setup_assistant_tutorial.html).

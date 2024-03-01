@@ -9,7 +9,7 @@
 
   <maintainer email="kkamlesh.p47@gmail.com">Kamlesh Kumar</maintainer>
 
-  <url type="website">http://github.com/kamlesh364</url>
+  <url type="website">http://github.com/kamlesh364/flywheel_pick_and_place</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 

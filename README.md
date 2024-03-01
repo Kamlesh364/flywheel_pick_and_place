@@ -54,7 +54,7 @@ git clone https://github.com/kamlesh364/flywheel_pick_and_place.git
 The following will install from Debian any package dependencies not already in your workspace:
 
 ```bash
-sudo apt install -y ros-melodic-franka-*
+sudo apt install -y ros-melodic-franka-* ros--melodic-joy-*
 rosdep install -y --from-paths . --ignore-src --rosdistro melodic
 ```
 
@@ -94,13 +94,13 @@ Watch this video to see the output of this tutorial:
 Open two terminals. In the first terminal start RViz and wait for everything to finish loading:
 
 ```bash
-roslaunch flywheen_pick_and_place demo_gazebo.launch
+roslaunch flywheel_pick_and_place demo_gazebo.launch
 ```
 
 In the second terminal run the pick and place tutorial:
 
 ```bash
-rosrun flywheen_pick_and_place pick_place_demo
+rosrun flywheel_pick_and_place pick_place_demo
 ```
 
 You should see something similar to the video at the beginning of this tutorial.

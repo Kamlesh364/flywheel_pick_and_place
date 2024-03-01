@@ -24,6 +24,8 @@ sudo apt-get install -y ros-melodic-catkin python-catkin-tools
 
 ```bash
 sudo apt install -y ros-melodic-moveit
+```
+```bash
 sudo apt install -y ros-melodic-moveit-*
 ```
 

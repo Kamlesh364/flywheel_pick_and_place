@@ -105,4 +105,4 @@ You should see something similar to the video at the beginning of this tutorial.
 
 ## The Entire Code
 
-The entire code can be seen [here](./src/pick_place_demo.cpp) in the flywheen_pick_and_place GitHub project.
+The entire code can be seen [here](./pick_place/src/pick_place_demo.cpp) in the flywheen_pick_and_place GitHub project.
